@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# Ejecutar con ruby ri20min.rb
+
 class MegaAnfitrion
   attr_accessor :nombres
 
